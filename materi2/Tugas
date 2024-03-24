@@ -1,0 +1,17 @@
+void main(){
+  // tipe data string 
+  // aiawali dengan keyword String namaVariabwl = "nilainy";
+  String merek = "Rafif";
+  var tahun = 2024;
+  var km = 1000;
+  String bahanBakar = "bensin";
+  String transmisi = "Matic";
+  String harga = "Rp.1.000.000.000";
+
+  print("Merek : ${Merek} ");
+  print("Tahun : ${Tahun} ");
+  print("KM : ${KM} ");
+  print("BahanBakar : ${BahanBakar} ");
+  print("Transmisi : ${Transmisi} ");
+  print("Harga : ${Harga} ");
+}
